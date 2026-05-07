@@ -1,6 +1,6 @@
 # 🍝 Bella Vista Voice Agent
 
-> A production-ready AI phone agent that handles restaurant reservations end-to-end — built with **Retell AI**, **Google Calendar**, **Google Sheets**, and **Twilio WhatsApp** in under 10 hours.
+> A production-ready AI phone agent that handles restaurant reservations end-to-end — built with **Retell AI**, **Google Calendar**, **Google Sheets**, and **Twilio WhatsApp** in under 3 hours.
 
 **🎬 Demo:** [Watch the demo video](https://www.loom.com/share/0e10e6523264483eba6fbb1d2d450bf3)
 **👤 Built by:** [Kshitij Mishra]
