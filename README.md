@@ -2,8 +2,8 @@
 
 > A production-ready AI phone agent that handles restaurant reservations end-to-end — built with **Retell AI**, **Google Calendar**, **Google Sheets**, and **Twilio WhatsApp** in under 10 hours.
 
-**🎬 Demo:** [Add your Loom link here]  
-**👤 Built by:** [Kshitij Mishra](https://linkedin.com/in/yourprofile)
+**🎬 Demo:** [Watch the demo video](https://www.loom.com/share/0e10e6523264483eba6fbb1d2d450bf3)
+**👤 Built by:** [Kshitij Mishra]
 
 ---
 
@@ -274,6 +274,5 @@ This project was built as a Forward Deployed Engineer demo for Retell AI. It sho
 
 ## Built By
 
-**Kshitij Mishra** — built as a technical demo for Retell AI's Forward Deployed Engineer role.
+**Kshitij Mishra** 
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
