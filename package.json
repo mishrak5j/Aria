@@ -1,0 +1,21 @@
+{
+  "name": "bella-vista-voice-agent",
+  "version": "1.0.0",
+  "description": "AI phone reservation agent for Bella Vista Restaurant — built with Retell AI + Groq (Llama 3)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "chrono-node": "^2.9.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "googleapis": "^140.0.0",
+    "groq-sdk": "^0.3.3",
+    "retell-sdk": "^3.3.0",
+    "twilio": "^6.0.1",
+    "ws": "^8.16.0"
+  }
+}
