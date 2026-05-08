@@ -95,7 +95,7 @@ Your Node.js Server
 ### Reservations Tab
 | Name | Party Size | Date | Time | Status | Booked At | Event ID | Phone |
 |---|---|---|---|---|---|---|---|
-| Matt | 4 | 2026-05-18 | 19:00 | Confirmed | 2026-05-07T... | abc123 | 4049924571 |
+| Matt | 4 | 2026-05-18 | 19:00 | Confirmed | 2026-05-07T... | abc123 | 404-XXX-XXXX |
 
 ### Call Analytics Tab
 | Call ID | Timestamp | Duration (secs) | Booking Made | Transcript |
